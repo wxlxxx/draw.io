@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T10:19:11.495Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="7jU7m3cREi9l2L8rmJ0K" version="14.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-31T11:33:58.481Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="h3GoA-V5zvobqEedR-8E" version="14.5.3" type="github" pages="3">
   <diagram name="客服反馈流程" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1989" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -559,6 +559,118 @@
         </mxCell>
         <mxCell id="ZidUeD_4AYHFpJS4Yc0S-63" value="&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;根据频道目标受众地区时区，根据订阅者观看习惯，选择合适的上线时间点，如无需即刻发布，可采用预约上线的方式，视频将会定时发布。&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
           <mxGeometry x="1670" y="5190" width="345" height="155" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KvoA6gLLZ_NqH_otRaW3" name="网站日常需求处理流程">
+    <mxGraphModel dx="1162" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ozy0z8vlQpjgVkudAJiK-0" />
+        <mxCell id="ozy0z8vlQpjgVkudAJiK-1" parent="ozy0z8vlQpjgVkudAJiK-0" />
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;fontSize=16;" edge="1" parent="ozy0z8vlQpjgVkudAJiK-1" source="cpjKrRjFl9BDlZ_30tGP-0" target="cpjKrRjFl9BDlZ_30tGP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-0" value="明确需求，确认设计稿" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="ozy0z8vlQpjgVkudAJiK-1">
+          <mxGeometry x="1141" y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;fontSize=16;" edge="1" parent="ozy0z8vlQpjgVkudAJiK-1" source="cpjKrRjFl9BDlZ_30tGP-1" target="cpjKrRjFl9BDlZ_30tGP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;fontSize=16;" edge="1" parent="ozy0z8vlQpjgVkudAJiK-1" source="cpjKrRjFl9BDlZ_30tGP-1" target="cpjKrRjFl9BDlZ_30tGP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-1" value="本地是否有&lt;br&gt;web-front-source&lt;br&gt;项目" style="rhombus;whiteSpace=wrap;html=1;glass=0;sketch=0;align=center;fontSize=16;" vertex="1" parent="ozy0z8vlQpjgVkudAJiK-1">
+          <mxGeometry x="1171.5" y="180" width="139" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-5" value="有" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=16;align=center;" vertex="1" parent="ozy0z8vlQpjgVkudAJiK-1">
+          <mxGeometry x="1160" y="340" width="69" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;fontSize=16;" edge="1" parent="ozy0z8vlQpjgVkudAJiK-1" source="cpjKrRjFl9BDlZ_30tGP-6" target="cpjKrRjFl9BDlZ_30tGP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-6" value="进去项目并切换到开发分支,&#xa;并从远程拉取最新版本代码" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;spacing=6;" vertex="1" parent="ozy0z8vlQpjgVkudAJiK-1">
+          <mxGeometry x="1141" y="430" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ozy0z8vlQpjgVkudAJiK-1" source="cpjKrRjFl9BDlZ_30tGP-8" target="cpjKrRjFl9BDlZ_30tGP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-8" value="从gitLab拉去项目到本地" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="ozy0z8vlQpjgVkudAJiK-1">
+          <mxGeometry x="1370" y="320" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-10" value="没有" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=16;align=center;" vertex="1" parent="ozy0z8vlQpjgVkudAJiK-1">
+          <mxGeometry x="1350" y="200" width="69" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fontSize=16;" edge="1" parent="ozy0z8vlQpjgVkudAJiK-1" source="cpjKrRjFl9BDlZ_30tGP-12" target="cpjKrRjFl9BDlZ_30tGP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-12" value="运行本地开发环境服务，制作页面开发功能" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;spacing=6;" vertex="1" parent="ozy0z8vlQpjgVkudAJiK-1">
+          <mxGeometry x="1141" y="590" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fontSize=16;" edge="1" parent="ozy0z8vlQpjgVkudAJiK-1" source="cpjKrRjFl9BDlZ_30tGP-14" target="cpjKrRjFl9BDlZ_30tGP-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1440" y="780" />
+              <mxPoint x="1440" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;fontSize=16;" edge="1" parent="ozy0z8vlQpjgVkudAJiK-1" source="cpjKrRjFl9BDlZ_30tGP-14" target="cpjKrRjFl9BDlZ_30tGP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-14" value="开发完毕将本地服务预览地址分享给需求方和设计师，测试需求完成度和设计还原度" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;spacing=6;" vertex="1" parent="ozy0z8vlQpjgVkudAJiK-1">
+          <mxGeometry x="1141" y="750" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fontSize=16;" edge="1" parent="ozy0z8vlQpjgVkudAJiK-1" source="cpjKrRjFl9BDlZ_30tGP-17" target="cpjKrRjFl9BDlZ_30tGP-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-17" value="提交更新的代码并同步至远程仓库，如远程代码有更新需要拉取合并再提交并同步至远程仓库" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;spacing=6;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ozy0z8vlQpjgVkudAJiK-1">
+          <mxGeometry x="1141" y="910" width="199" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-19" value="通过测试" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=16;align=center;" vertex="1" parent="ozy0z8vlQpjgVkudAJiK-1">
+          <mxGeometry x="1250" y="840" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-20" value="未通过测试" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=16;align=center;" vertex="1" parent="ozy0z8vlQpjgVkudAJiK-1">
+          <mxGeometry x="1450" y="680" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fontSize=16;" edge="1" parent="ozy0z8vlQpjgVkudAJiK-1" source="cpjKrRjFl9BDlZ_30tGP-21" target="cpjKrRjFl9BDlZ_30tGP-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jVYPUSz4-q4Hn5-8fDyD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fontSize=16;" edge="1" parent="ozy0z8vlQpjgVkudAJiK-1" source="cpjKrRjFl9BDlZ_30tGP-21" target="jVYPUSz4-q4Hn5-8fDyD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-21" value="配置生产环境构建参数，&#xa;编译打包构建生产环境代码" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;spacing=6;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ozy0z8vlQpjgVkudAJiK-1">
+          <mxGeometry x="1141" y="1060" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jVYPUSz4-q4Hn5-8fDyD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;fontSize=16;" edge="1" parent="ozy0z8vlQpjgVkudAJiK-1" source="cpjKrRjFl9BDlZ_30tGP-23" target="jVYPUSz4-q4Hn5-8fDyD-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpjKrRjFl9BDlZ_30tGP-23" value="将打包后的css、js录入cms对应站点下的正确目录" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;spacing=6;" vertex="1" parent="ozy0z8vlQpjgVkudAJiK-1">
+          <mxGeometry x="980" y="1310" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jVYPUSz4-q4Hn5-8fDyD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fontSize=16;" edge="1" parent="ozy0z8vlQpjgVkudAJiK-1" source="jVYPUSz4-q4Hn5-8fDyD-0" target="jVYPUSz4-q4Hn5-8fDyD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jVYPUSz4-q4Hn5-8fDyD-0" value="发布更新的css、js文件，如有必要需要手动刷新cdn缓存" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;spacing=6;" vertex="1" parent="ozy0z8vlQpjgVkudAJiK-1">
+          <mxGeometry x="980" y="1450" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jVYPUSz4-q4Hn5-8fDyD-2" value="通知需求方完成需求" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;spacing=6;" vertex="1" parent="ozy0z8vlQpjgVkudAJiK-1">
+          <mxGeometry x="980" y="1600" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jVYPUSz4-q4Hn5-8fDyD-4" value="css、js有更新" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=16;align=center;" vertex="1" parent="ozy0z8vlQpjgVkudAJiK-1">
+          <mxGeometry x="1130" y="1160" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jVYPUSz4-q4Hn5-8fDyD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;fontSize=16;" edge="1" parent="ozy0z8vlQpjgVkudAJiK-1" source="jVYPUSz4-q4Hn5-8fDyD-5" target="jVYPUSz4-q4Hn5-8fDyD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jVYPUSz4-q4Hn5-8fDyD-5" value="将打包后的html页面录入cms对应站点下的正确模板" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;spacing=6;" vertex="1" parent="ozy0z8vlQpjgVkudAJiK-1">
+          <mxGeometry x="1310.5" y="1310" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jVYPUSz4-q4Hn5-8fDyD-7" value="页面有更新" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=16;align=center;" vertex="1" parent="ozy0z8vlQpjgVkudAJiK-1">
+          <mxGeometry x="1300" y="1160" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jVYPUSz4-q4Hn5-8fDyD-8" value="将更新后的页面cms预览地址发给需求方完成需求" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;spacing=6;" vertex="1" parent="ozy0z8vlQpjgVkudAJiK-1">
+          <mxGeometry x="1310.5" y="1450" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
