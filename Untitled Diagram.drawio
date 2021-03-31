@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T08:30:16.959Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="3l_AJ6A4l_WymGClD8kF" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-31T10:19:11.495Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="7jU7m3cREi9l2L8rmJ0K" version="14.5.3" type="github" pages="2">
   <diagram name="客服反馈流程" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1989" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -235,6 +235,330 @@
         </mxCell>
         <mxCell id="7nDUzhDHEa1qE9XWQnVi-110" value="在TAPD客服反馈收集项目中创建需求或缺陷并指派给后台数据负责人（齐凤山）处理" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1200" y="760" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3RHctSbEayEPtgVH-1hh" name="Youtube视频上线流程">
+    <mxGraphModel dx="1162" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="D5SkNHptaKonsIx_33_D-0" />
+        <mxCell id="D5SkNHptaKonsIx_33_D-1" parent="D5SkNHptaKonsIx_33_D-0" />
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-0" target="ZidUeD_4AYHFpJS4Yc0S-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-0" value="检查" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1141" y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-2" target="ZidUeD_4AYHFpJS4Yc0S-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-2" target="ZidUeD_4AYHFpJS4Yc0S-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-2" target="ZidUeD_4AYHFpJS4Yc0S-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="793" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-2" target="ZidUeD_4AYHFpJS4Yc0S-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="993" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-2" target="ZidUeD_4AYHFpJS4Yc0S-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="1193" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-2" target="ZidUeD_4AYHFpJS4Yc0S-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="1398" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-2" target="ZidUeD_4AYHFpJS4Yc0S-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="1593" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-2" target="ZidUeD_4AYHFpJS4Yc0S-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="1808" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-2" target="ZidUeD_4AYHFpJS4Yc0S-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-2" value="导出前检查清单" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1141" y="190" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-3" value="项目及序列" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="340" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-7" value="&lt;span style=&quot;margin: 0px; padding: 0px; font-family: arial; font-size: 10pt; font-weight: bold;&quot;&gt;以下参数均针对一般场景视频：&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;1080P视频：&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; font-family: arial; font-size: 10pt;&quot;&gt;1920x1080，25fps，码率8Mbps&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; font-family: arial; font-size: 10pt; font-weight: bold;&quot;&gt;4K视频：&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; font-family: arial; font-size: 10pt;&quot;&gt;3840x2160，25fps，码率35-45Mbps&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;H.264编码，mp4格式，逐行扫描，方形像素，NTSC/PAL&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="292.5" width="345" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-10" value="片头片尾" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="554.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-11" value="&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;英    语：&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;4秒logo片头+对应产品片尾&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;小语种：&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;标题片头+对应产品片尾&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;台    湾：&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;场景复现后的logo片头+对应产品片尾&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="507" width="345" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-13" value="订阅按钮动画" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="762.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-14" value="&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;根据情况添加至视频场景引入处，或结尾成功处&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="720" width="325" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-15" value="音量" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="962.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-16" value="&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;如有配音的视频，配音要求声音避免喷麦，BGM的声音不能盖住人声（BGM视情况在&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;-20dB~-30dB&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;之间）；&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;如无配音视频，则BGM音量不作要求&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="920" width="385" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-17" value="BGM" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="1162.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-18" value="&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;如使用非YouTube后台BGM，则需注意采用免费可商用的音源，eg: &lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;Audio Library&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt; (https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA/videos)&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;注意&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;不要选标题带有“Release Preview”字样的音源&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="1120" width="465" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-19" value="字体" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="1367.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-20" value="&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;视频中字体采用免费可商用字体，一般建议采用&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;Roboto；&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;开源字体库&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt; Google Fonts &lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;(https://fonts.google.com/)&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="1330" width="375" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-21" value="亮度及色彩" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="1562.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-22" value="&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;亮度：&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;确保视频亮度不过曝，降低画面阴影；&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;色彩：&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;调整视频白平衡正常，避免手部色温与现实偏差太大&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="1530" width="365" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-23" value="画面" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="1777.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-24" value="&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;版权：&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;避免出现有他人版权的素材&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;打码：&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;手机号码及AppleID等敏感信息需要打码；&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;无关画面：&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;录屏画面中避免出现录屏软件界面或其他与视频无关的画面；&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;反光：&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;手机等设备黑屏时避免出现人脸反光；&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="1730" width="385" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-31" target="ZidUeD_4AYHFpJS4Yc0S-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="2178" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-31" target="ZidUeD_4AYHFpJS4Yc0S-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="2416" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-66" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-31" target="ZidUeD_4AYHFpJS4Yc0S-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="2648" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-31" target="ZidUeD_4AYHFpJS4Yc0S-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="2878" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-68" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-31" target="ZidUeD_4AYHFpJS4Yc0S-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="3098" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-69" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-31" target="ZidUeD_4AYHFpJS4Yc0S-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="3328" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-70" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-31" target="ZidUeD_4AYHFpJS4Yc0S-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="3548" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-71" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-31" target="ZidUeD_4AYHFpJS4Yc0S-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="3758" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-72" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-31" target="ZidUeD_4AYHFpJS4Yc0S-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="3978" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-73" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-31" target="ZidUeD_4AYHFpJS4Yc0S-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="4189" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-74" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-31" target="ZidUeD_4AYHFpJS4Yc0S-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="4409" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-75" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-31" target="ZidUeD_4AYHFpJS4Yc0S-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="4629" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-76" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-31" target="ZidUeD_4AYHFpJS4Yc0S-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="4849" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-77" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-31" target="ZidUeD_4AYHFpJS4Yc0S-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="5059" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-78" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="D5SkNHptaKonsIx_33_D-1" source="ZidUeD_4AYHFpJS4Yc0S-31" target="ZidUeD_4AYHFpJS4Yc0S-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="5269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-31" value="上线前检查清单" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1141" y="1940" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-33" value="标题" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="2147.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-34" value="&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;关键词：&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;标题要求包括核心关键词，且关键词中间不能被其他词打断，但可以加词在核心关键词前面或后面&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;品牌名、产品名规范：&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt; eg:Tenorshare iCareFone for WhatsApp Transfer&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;大小写规范：&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;首字母大写，冠词，介词，连词及不定式的to除外&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="2100" width="345" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-35" value="描述" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="2385.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-36" value="&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;产品链接：前三行&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;完成视频基本信息描述，并加上产品链接，产品链接处于描述被折叠部分之前，并使用&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;带utm跟踪的bit.ly短链&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;；&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;文章链接&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;：如有相关主题的文章，紧跟其后的则是相关文章链接；&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;书写规范&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;：品牌名、产品名、大小写规范书写&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="2338" width="345" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-37" value="章节时间戳" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="2617.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-38" value="&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;成功启用视频章节：&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;第一个时间戳需要为00:00，且符号采用英文符号；&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;至少有三个时间戳；&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;视频章节的长度至少为10秒&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="2570" width="345" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-39" value="社交媒体分享链接" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="2847.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-40" value="&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;YouTube后台添加默认模板，避免上传时拷贝到显示不全的链接&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="2800" width="345" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-41" value="BGM 来源标注" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="3067.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-42" value="&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;！！！很重要&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;免费可商用音源要求需要在视频下方描述加上BGM信息，一旦使用非YouTube后台的音乐，则需要关注版权问题，否则很容易收到YouTube警告，进而影响频道运作&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="3020" width="345" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-43" value="标题上方的标签 &quot;#&quot;" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="3297.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-44" value="&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;数量一般&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;不超过3个，不宜过长&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;，填写在视频描述中，每个标签用英文逗号或空格隔开；&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;选取&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;对应主题的热门标签&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;有助于提高该视频被推荐的几率；&lt;br style=&quot;margin: 0px ; padding: 0px&quot;&gt;一个标签内&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt ; font-weight: bold&quot;&gt;单词之间无需空格和符号&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 10pt&quot;&gt;，避免错别字&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="3250" width="345" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-45" value="缩略图" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="3517.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-46" value="&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;画面曝光准确；&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;标题明显且无错别字；&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;设备场景明显；&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;配色方案符合频道整体基调；&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;避免使用有版权的图片素材；&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;品牌水印&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="3470" width="345" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-48" value="播放列表" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="3727.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-49" value="&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;添加到对应主题或产品播放列表下&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="3680" width="345" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-50" value="内容受众" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="3947.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-51" value="&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;选择 “否，内容不是面向儿童的” (No, it&#39;s not made for kids)&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="3900" width="345" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-52" value="视频内置标签" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="4157.5" width="200" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-53" value="&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;字数上限500字，一般要求300字左右，标签内容来源：&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;- 同主题优秀视频内置标签；&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;- 主题本身相关同类关键词；&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;- TubeBuddy推荐关键词&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="4110" width="345" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-54" value="字幕" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="4377.5" width="200" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-55" value="&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;如有制作相关srt字幕文件，则可直接上传；&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;如有配音，亦可直接上传文字稿，后台可自动识别并智能分配段落&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="4330" width="345" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-56" value="类别" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="4597.5" width="200" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-57" value="&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;选择“科学与技术” (Science &amp;amp; Technology)&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="4550" width="345" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-58" value="片尾画面" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="4817.5" width="200" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-59" value="&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;添加频道订阅元素；&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;添加频道最契合观看者兴趣的视频或指定视频；&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;添加产品播放列表；&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;合理布局，避免挡住视频内重要信息&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="4770" width="345" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-60" value="卡片" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="5027.5" width="200" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-61" value="&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;按需求添加，一般放置在视频中提到的对应内容处，用于视频引申拓展；&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;如无需求则不要随意添加，容易影响视频的跳出率&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="4980" width="345" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-62" value="发布" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1430" y="5237.5" width="200" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZidUeD_4AYHFpJS4Yc0S-63" value="&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px&quot;&gt;根据频道目标受众地区时区，根据订阅者观看习惯，选择合适的上线时间点，如无需即刻发布，可采用预约上线的方式，视频将会定时发布。&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;sketch=0;direction=south;align=left;spacingTop=0;spacing=10;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D5SkNHptaKonsIx_33_D-1">
+          <mxGeometry x="1670" y="5190" width="345" height="155" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
