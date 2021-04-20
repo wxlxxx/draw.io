@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T03:01:01.517Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="dpiMC3TSqBlvRisPw-Jo" version="14.6.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-04-20T07:54:19.054Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="bP2I5DEeszJjScldebX0" version="14.6.1" type="github" pages="8">
   <diagram name="客服反馈流程" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1989" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1467,46 +1467,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GYzrfc5AbF4YJ1cYm2gS-0" value="视频剪辑流程" style="rounded=1;fillColor=#fa6800;shadow=1;fontStyle=1;fontSize=14;strokeColor=#C73500;whiteSpace=wrap;spacingRight=4;spacing=2;fontColor=#ffffff;" vertex="1" parent="j86ZTtxQetO0mG-15_vz-1">
-          <mxGeometry x="304" y="1200" width="220" height="70" as="geometry" />
+          <mxGeometry x="304" y="1180" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="330aSQPpFQQCVZ72jGKQ-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="j86ZTtxQetO0mG-15_vz-1" source="330aSQPpFQQCVZ72jGKQ-0" target="330aSQPpFQQCVZ72jGKQ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="330aSQPpFQQCVZ72jGKQ-0" value="素材整理，分类存放" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;whiteSpace=wrap;spacingRight=4;spacing=2;" vertex="1" parent="j86ZTtxQetO0mG-15_vz-1">
-          <mxGeometry x="304" y="1500" width="220" height="70" as="geometry" />
+          <mxGeometry x="304" y="1480" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="330aSQPpFQQCVZ72jGKQ-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="j86ZTtxQetO0mG-15_vz-1" source="330aSQPpFQQCVZ72jGKQ-1" target="330aSQPpFQQCVZ72jGKQ-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="330aSQPpFQQCVZ72jGKQ-1" value="素材制作与收集&#xa;（录屏、实景拍摄、其他。。。）" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;whiteSpace=wrap;spacingRight=4;spacing=2;" vertex="1" parent="j86ZTtxQetO0mG-15_vz-1">
-          <mxGeometry x="304" y="1350" width="220" height="70" as="geometry" />
+          <mxGeometry x="304" y="1330" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="330aSQPpFQQCVZ72jGKQ-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="j86ZTtxQetO0mG-15_vz-1" source="330aSQPpFQQCVZ72jGKQ-4" target="330aSQPpFQQCVZ72jGKQ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="330aSQPpFQQCVZ72jGKQ-4" value="将需要的素材导入编辑软件&#xa;（可以使用项目模板、历史素材）" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;whiteSpace=wrap;spacingRight=4;spacing=2;" vertex="1" parent="j86ZTtxQetO0mG-15_vz-1">
-          <mxGeometry x="304" y="1640" width="220" height="70" as="geometry" />
+          <mxGeometry x="304" y="1620" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="330aSQPpFQQCVZ72jGKQ-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="j86ZTtxQetO0mG-15_vz-1" source="330aSQPpFQQCVZ72jGKQ-7" target="330aSQPpFQQCVZ72jGKQ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="330aSQPpFQQCVZ72jGKQ-7" value="视频粗剪&#xa;（场景复现、解决方案等）" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;whiteSpace=wrap;spacingRight=4;spacing=2;" vertex="1" parent="j86ZTtxQetO0mG-15_vz-1">
-          <mxGeometry x="304" y="1790" width="220" height="70" as="geometry" />
+          <mxGeometry x="304" y="1770" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="330aSQPpFQQCVZ72jGKQ-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="j86ZTtxQetO0mG-15_vz-1" source="330aSQPpFQQCVZ72jGKQ-9" target="330aSQPpFQQCVZ72jGKQ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="330aSQPpFQQCVZ72jGKQ-9" value="写配音脚本&#xa;（使用TTS工具生成配音文件）" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;whiteSpace=wrap;spacingRight=4;spacing=2;" vertex="1" parent="j86ZTtxQetO0mG-15_vz-1">
-          <mxGeometry x="304" y="1950" width="220" height="70" as="geometry" />
+          <mxGeometry x="304" y="1930" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="330aSQPpFQQCVZ72jGKQ-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="j86ZTtxQetO0mG-15_vz-1" source="330aSQPpFQQCVZ72jGKQ-10" target="330aSQPpFQQCVZ72jGKQ-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="330aSQPpFQQCVZ72jGKQ-10" value="视频精剪&#xa;（添加配音文件、背景音乐或音效、转场、特效调色等）" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;whiteSpace=wrap;spacingRight=4;spacing=2;" vertex="1" parent="j86ZTtxQetO0mG-15_vz-1">
-          <mxGeometry x="304" y="2110" width="220" height="70" as="geometry" />
+          <mxGeometry x="304" y="2090" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="330aSQPpFQQCVZ72jGKQ-13" value="成品导出&#xa;（1080p、4k）" style="rounded=1;fillColor=#dae8fc;shadow=1;fontStyle=1;fontSize=14;strokeColor=#6c8ebf;whiteSpace=wrap;spacingRight=4;spacing=2;" vertex="1" parent="j86ZTtxQetO0mG-15_vz-1">
-          <mxGeometry x="304" y="2260" width="220" height="70" as="geometry" />
+          <mxGeometry x="304" y="2240" width="220" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
