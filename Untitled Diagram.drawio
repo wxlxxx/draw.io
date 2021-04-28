@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T09:31:29.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="5CbauwT1uSgric214YjH" version="14.5.8" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-04-28T09:48:39.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="pts-wXt7y2mfHDrC1vph" version="14.6.6" type="github" pages="14">
   <diagram name="客服反馈流程" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="1446" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1548,18 +1548,168 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nAoHqwn5ebf5mII8VXtd" name="新人反馈流程">
-    <mxGraphModel dx="1056" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7RSgwCCHQubGlk1aE1EZ-0" />
         <mxCell id="7RSgwCCHQubGlk1aE1EZ-1" parent="7RSgwCCHQubGlk1aE1EZ-0" />
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="j2hvGoKd-EIG47hTYvrN" name="运营中心入职指引">
-    <mxGraphModel dx="1056" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="j2hvGoKd-EIG47hTYvrN" name="运营中心职能体系">
+    <mxGraphModel dx="2178" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Qjfi0EkwovpnhX2bNo1H-0" />
         <mxCell id="Qjfi0EkwovpnhX2bNo1H-1" parent="Qjfi0EkwovpnhX2bNo1H-0" />
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Qjfi0EkwovpnhX2bNo1H-1" source="V8Tqwng8akEbwTfjAiZp-0" target="V8Tqwng8akEbwTfjAiZp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Qjfi0EkwovpnhX2bNo1H-1" source="V8Tqwng8akEbwTfjAiZp-0" target="V8Tqwng8akEbwTfjAiZp-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=105.00000000000001;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Qjfi0EkwovpnhX2bNo1H-1" source="V8Tqwng8akEbwTfjAiZp-0" target="V8Tqwng8akEbwTfjAiZp-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Qjfi0EkwovpnhX2bNo1H-1" source="V8Tqwng8akEbwTfjAiZp-0" target="V8Tqwng8akEbwTfjAiZp-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="260.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-0" value="&lt;font style=&quot;font-size: 14px&quot;&gt;运营中心&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Qjfi0EkwovpnhX2bNo1H-1">
+          <mxGeometry x="354" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-8" value="" style="group" vertex="1" connectable="0" parent="Qjfi0EkwovpnhX2bNo1H-1">
+          <mxGeometry x="500" y="40" width="230" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-6" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=90;size=20;position=0.42;base=30;" vertex="1" parent="V8Tqwng8akEbwTfjAiZp-8">
+          <mxGeometry x="35" y="-35" width="160" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-7" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;中心负责人：叶珊&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;职能：公司营销战略的策划与实施；品牌建设与推广；新品市场调查；营销类网站的建设与维护等。&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="V8Tqwng8akEbwTfjAiZp-8">
+          <mxGeometry x="30" y="35" width="190" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Qjfi0EkwovpnhX2bNo1H-1" source="V8Tqwng8akEbwTfjAiZp-9" target="V8Tqwng8akEbwTfjAiZp-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="740" />
+              <mxPoint x="171" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qjfi0EkwovpnhX2bNo1H-1" source="V8Tqwng8akEbwTfjAiZp-9" target="V8Tqwng8akEbwTfjAiZp-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qjfi0EkwovpnhX2bNo1H-1" source="V8Tqwng8akEbwTfjAiZp-9" target="V8Tqwng8akEbwTfjAiZp-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qjfi0EkwovpnhX2bNo1H-1" source="V8Tqwng8akEbwTfjAiZp-9" target="V8Tqwng8akEbwTfjAiZp-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;品牌运营部&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Qjfi0EkwovpnhX2bNo1H-1">
+          <mxGeometry x="50" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-10" value="" style="group" vertex="1" connectable="0" parent="Qjfi0EkwovpnhX2bNo1H-1">
+          <mxGeometry x="190" y="460" width="230" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-11" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=90;size=20;position=0.42;base=24;" vertex="1" parent="V8Tqwng8akEbwTfjAiZp-10">
+          <mxGeometry x="48.75" y="-31.25" width="132.5" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-12" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;&lt;/h1&gt;&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;职能：拔高品牌调性、塑造企业形象、&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;品牌定位策略&lt;/span&gt;&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;品牌活动宣传等，是运营中心核心战略部门&lt;br&gt;&lt;br&gt;职位：网站运营&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="V8Tqwng8akEbwTfjAiZp-10">
+          <mxGeometry x="30" y="40" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;DV品牌组&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;职能：负责&lt;font color=&quot;#ff6666&quot;&gt;Tenorshare、Hitpaw&lt;/font&gt;等品牌的品牌运营工作；承载以上品牌的网站的运营策划等&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;负责人：雷莉娜、周小琼&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;spacingRight=6;spacingLeft=6;" vertex="1" parent="Qjfi0EkwovpnhX2bNo1H-1">
+          <mxGeometry x="170" y="670" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-15" value="&lt;font style=&quot;font-size: 14px&quot;&gt;OD品牌组&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;职能：负责&lt;font color=&quot;#ff6666&quot;&gt;Passfab&lt;/font&gt;等品牌的品牌运营工作；承载以上品牌的网站的运营策划等&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;负责人：刘双&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;spacingRight=6;spacingLeft=6;" vertex="1" parent="Qjfi0EkwovpnhX2bNo1H-1">
+          <mxGeometry x="170" y="880" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-16" value="&lt;font style=&quot;font-size: 14px&quot;&gt;UD品牌组&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;职能：负责&lt;font color=&quot;#ff6666&quot;&gt;Ultfone、4ddig&lt;/font&gt;等品牌的品牌运营工作；承载以上品牌的网站的运营策划等&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;负责人：徐宝和&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;spacingRight=6;spacingLeft=6;" vertex="1" parent="Qjfi0EkwovpnhX2bNo1H-1">
+          <mxGeometry x="170" y="1090" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;JP品牌组&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;职能：负责&lt;font color=&quot;#ff6666&quot;&gt;日语&lt;/font&gt;品牌线的品牌运营工作；承载以上品牌的网站的运营策划等&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;负责人：余蓝玉&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;spacingRight=6;spacingLeft=6;" vertex="1" parent="Qjfi0EkwovpnhX2bNo1H-1">
+          <mxGeometry x="170" y="1300" width="240" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-22" value="&lt;font style=&quot;font-size: 14px&quot;&gt;广告部&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Qjfi0EkwovpnhX2bNo1H-1">
+          <mxGeometry x="-460" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-23" value="" style="group" vertex="1" connectable="0" parent="Qjfi0EkwovpnhX2bNo1H-1">
+          <mxGeometry x="-300" y="455" width="240" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-24" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=90;size=20;position=0.42;base=24;" vertex="1" parent="V8Tqwng8akEbwTfjAiZp-23">
+          <mxGeometry x="43.81" y="-35.82" width="121.63" height="263.99" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-25" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;&lt;/h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;职能：&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(18 , 18 , 18) ; background-color: rgb(255 , 255 , 255)&quot;&gt;广告创意&lt;/span&gt;&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;、&lt;font style=&quot;font-size: 14px&quot;&gt;投放、代理平台合作、广告网站的建设维护、策划等，以及中文营销网站的维护与策划。&lt;br&gt;&lt;br&gt;职位：广告运营、网站运营&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="V8Tqwng8akEbwTfjAiZp-23">
+          <mxGeometry x="5" y="52.09" width="230" height="99.05" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-27" value="&lt;font style=&quot;font-size: 14px&quot;&gt;客服部&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Qjfi0EkwovpnhX2bNo1H-1">
+          <mxGeometry x="610" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-28" value="" style="group" vertex="1" connectable="0" parent="Qjfi0EkwovpnhX2bNo1H-1">
+          <mxGeometry x="750" y="460" width="230" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-29" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=90;size=20;position=0.42;base=24;" vertex="1" parent="V8Tqwng8akEbwTfjAiZp-28">
+          <mxGeometry x="48.75" y="-31.25" width="132.5" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-30" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;&lt;/h1&gt;&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;职能：负责公司产品销售的售前、售中、售后工作，解决客户问题，维护公司声誉形象等。&lt;br&gt;&lt;br&gt;职位：客服&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="V8Tqwng8akEbwTfjAiZp-28">
+          <mxGeometry x="30" y="40" width="190" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qjfi0EkwovpnhX2bNo1H-1" source="V8Tqwng8akEbwTfjAiZp-32" target="V8Tqwng8akEbwTfjAiZp-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qjfi0EkwovpnhX2bNo1H-1" source="V8Tqwng8akEbwTfjAiZp-32" target="V8Tqwng8akEbwTfjAiZp-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="975" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-32" value="&lt;font style=&quot;font-size: 14px&quot;&gt;技术支持部&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Qjfi0EkwovpnhX2bNo1H-1">
+          <mxGeometry x="1150" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-33" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=90;size=20;position=0.42;base=24;" vertex="1" parent="Qjfi0EkwovpnhX2bNo1H-1">
+          <mxGeometry x="1347.5" y="430" width="115" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-34" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;&lt;/h1&gt;&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;职能：为运营中心以及公司整体营销策略的展开提供技术支持，保证各品牌网站的视觉与功能的正常。&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Qjfi0EkwovpnhX2bNo1H-1">
+          <mxGeometry x="1320" y="510" width="190" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-35" value="&lt;font style=&quot;font-size: 14px&quot;&gt;设计组&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;职能：制定品牌视觉规范并监督执行，输出符合需求的图片、海报、logo、VIS、网页设计稿等&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;职位：网页设计师、UI设计师、视频设计师&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;负责人：欧阳志将&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;spacingRight=6;spacingLeft=6;" vertex="1" parent="Qjfi0EkwovpnhX2bNo1H-1">
+          <mxGeometry x="1270" y="700" width="320" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Tqwng8akEbwTfjAiZp-36" value="&lt;font style=&quot;font-size: 14px&quot;&gt;网站组&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;职能：保证品牌策略、策划方案、视觉方案准确落实到网站页面，页面功能的实现，开发维护前端框架，各种内部系统平台的搭建维护等，为运营人员提供一起线上运营的技术支持&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;职位：前端开发工程师&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;负责人：王晓龙&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;spacingRight=6;spacingLeft=6;" vertex="1" parent="Qjfi0EkwovpnhX2bNo1H-1">
+          <mxGeometry x="1270" y="935" width="320" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="T8vD5RRRE0BzsGWYdGmK" name="cms新建站点流程">
+    <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="t4V0WVvi41_BqE1LBUE2-0" />
+        <mxCell id="t4V0WVvi41_BqE1LBUE2-1" parent="t4V0WVvi41_BqE1LBUE2-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UtyoVOW58S8jYpi3nbbA" name="cms复用站点流程">
+    <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="hGPVIO0rgAqJAhbcLD1M-0" />
+        <mxCell id="hGPVIO0rgAqJAhbcLD1M-1" parent="hGPVIO0rgAqJAhbcLD1M-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Y-uaW7HcEgLJl-ANO0wQ" name="A/B测试流程">
+    <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ByB3Ybyw9pKfJyq1xdoy-0" />
+        <mxCell id="ByB3Ybyw9pKfJyq1xdoy-1" parent="ByB3Ybyw9pKfJyq1xdoy-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2DhV7w48pktc5xd2uXYC" name="EDM制作上线流程">
+    <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="GfpgaQ7t2dM19NIAb1r8-0" />
+        <mxCell id="GfpgaQ7t2dM19NIAb1r8-1" parent="GfpgaQ7t2dM19NIAb1r8-0" />
       </root>
     </mxGraphModel>
   </diagram>
